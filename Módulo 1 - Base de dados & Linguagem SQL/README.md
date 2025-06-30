@@ -46,7 +46,7 @@ SELECT *
 FROM clientes;
 ```
 
-#### [**2.2. Query 2**](query_2.csv)
+#### [**2.2. Query 2**](https://raw.githubusercontent.com/crikactba/SQL/main/Módulo%201%20-%20Base%20de%20dados%20%26%20Linguagem%20SQL/query_2.csv)
 ```sql
 SELECT id,
 	idade,
@@ -56,7 +56,7 @@ WHERE sexo = 'M'
 ORDER BY idade DESC;
 ```
 
-#### [**2.3. Query 3**](query_3.csv)
+#### [**2.3. Query 3**](https://raw.githubusercontent.com/crikactba/SQL/main/Módulo%201%20-%20Base%20de%20dados%20%26%20Linguagem%20SQL/query_3.csv)
 ```sql
 SELECT sexo,
 	AVG(idade) AS "media_idade_por_sexo"
