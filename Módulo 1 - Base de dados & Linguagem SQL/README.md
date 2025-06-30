@@ -1,13 +1,13 @@
-<img src="https://raw.githubusercontent.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/main/ebac-course-utils/media/logo/newebac_logo_black_half.png" alt="ebac-logo">
+<img src="" alt="ebac-logo">
 
 ---
 
 # **Módulo 1** | SQL: Base de dados & Linguagem SQL
 
-Professor [André Perez](https://www.linkedin.com/in/andremarcosperez/)<br>
-Aluno [Roberto Hatiro Nishiyama](https://www.linkedin.com/in/rhatiro/)<br>
+Professor André Perez <br>
+Aluna: Cristiane <br>
 
-Data: 10 de maio de 2023.
+Data: 30 de Junho de 2025.
 
 ---
 
@@ -34,18 +34,18 @@ WITH SERDEPROPERTIES (
 	'escapeChar' = '\\'
 )
 STORED AS TEXTFILE
-LOCATION 's3://ebac-robertohatiro-modulo1/'
+LOCATION 's3://ebac-cristianesantos-modulo1/'
 ```
 
 ### **2. Explorando os dados da tabela de clientes**
 
-#### [**2.1. Query 1**](https://raw.githubusercontent.com/rhatiro/exercicios-SQL-para-Analise-de-Dados-EBAC/main/Mo%CC%81dulo%201%20-%20Base%20de%20dados%20%26%20Linguagem%20SQL/query_1.csv)
+#### [**2.1. Query 1**](query_1.csv)
 ```sql
 SELECT *
 FROM clientes;
 ```
 
-#### [**2.2. Query 2**](https://raw.githubusercontent.com/rhatiro/exercicios-SQL-para-Analise-de-Dados-EBAC/main/Mo%CC%81dulo%201%20-%20Base%20de%20dados%20%26%20Linguagem%20SQL/query_2.csv)
+#### [**2.2. Query 2**](query_2.csv)
 ```sql
 SELECT id,
 	idade,
@@ -55,7 +55,7 @@ WHERE sexo = 'M'
 ORDER BY idade DESC;
 ```
 
-#### [**2.3. Query 3**](https://raw.githubusercontent.com/rhatiro/exercicios-SQL-para-Analise-de-Dados-EBAC/main/Mo%CC%81dulo%201%20-%20Base%20de%20dados%20%26%20Linguagem%20SQL/query_3.csv)
+#### [**2.3. Query 3**](query_3.csv)
 ```sql
 SELECT sexo,
 	AVG(idade) AS "media_idade_por_sexo"
