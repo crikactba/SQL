@@ -1,6 +1,6 @@
 
-<details o![LOGO1EBAC](https://github.com/user-attachments/assets/24f986f3-b9f9-45c9-9ce1-bd4cc30f71f1)
-pen>
+![LOGO1EBAC](https://github.com/user-attachments/assets/1d69978a-2a90-4574-a5d4-baf916741139)
+
   <summary>
     <h1>SQL para Análise de Dados</h1>
   </summary>
