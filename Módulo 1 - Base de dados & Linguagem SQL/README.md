@@ -40,7 +40,7 @@ LOCATION 's3://ebac-cristianesantos-modulo1/'
 
 ### **2. Explorando os dados da tabela de clientes**
 
-#### [**2.1. Query 1**](query_1.csv)
+#### [**2.1. Query 1**](https://raw.githubusercontent.com/crikactba/SQL/blob/main/Módulo%201%20-%20Base%20de%20dados%20%26%20Linguagem%20SQL/query_1.csv)
 ```sql
 SELECT *
 FROM clientes;
