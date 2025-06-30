@@ -1,4 +1,5 @@
-<img src="" alt="ebac-logo">
+
+![logo_ebac](https://github.com/user-attachments/assets/ee42415c-9584-417a-852a-698d918cf44f)
 
 ---
 
