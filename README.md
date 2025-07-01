@@ -9,7 +9,7 @@
 
 - [x] [Módulo 2 - Tabelas em SQL](https://github.com/crikactba/SQL/tree/main/Módulo%202%20-%20Tabelas%20em%20SQL)
 <!--
-- [x] [Módulo 3 - Selecionando e Ordenação em SQL](https://github.com/crikactba/SQL/tree/main/Mo%CC%81dulo%203%20-%20Selecionando%20%26%20Ordenando)
+- [x] [Módulo 3 - Seleção e Ordenação em SQL](https://github.com/crikactba/SQL/tree/main/Mo%CC%81dulo%203%20-%20Selecionando%20%26%20Ordenando)
 
 - [x] [Módulo 4 - Filtrando e Seleção Condicional](https://github.com/crikactba/SQL/tree/main/Mo%CC%81dulo%204%20-%20Filtrando%20%26%20Selec%CC%A7a%CC%83o%20Condicional)
 
