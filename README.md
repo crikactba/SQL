@@ -9,17 +9,17 @@
 
 - [x] [Módulo 2 - Tabelas em SQL](https://github.com/crikactba/SQL/tree/main/Módulo%202%20-%20Tabelas%20em%20SQL)
 <!--
-- [x] [Módulo 3 - Seleção e Ordenação em SQL](https://github.com/crikactba/SQL/tree/main/Mo%CC%81dulo%203%20-%20Selecionando%20%26%20Ordenando)
+- [x] [Módulo 3 - Seleção e Ordenação em SQL](https://github.com/crikactba/SQL/tree/main/)
 
-- [x] [Módulo 4 - Filtrando e Seleção Condicional](https://github.com/crikactba/SQL/tree/main/Mo%CC%81dulo%204%20-%20Filtrando%20%26%20Selec%CC%A7a%CC%83o%20Condicional)
+- [x] [Módulo 4 - Filtragem e Seleção Condicional](https://github.com/crikactba/SQL/tree/main/)
 
-- [x] [Módulo 5 - Agregações](https://github.com/crikactba/SQL/tree/main/Mo%CC%81dulo%205%20-%20Agregac%CC%A7o%CC%83es)
+- [x] [Módulo 5 - Agregações](https://github.com/crikactba/SQL/tree/main/)
 
-- [x] [Módulo 6 - Múltiplas Tabelas](https://github.com/crikactba/SQL/tree/main/Mo%CC%81dulo%206%20-%20Trabalhando%20com%20Mu%CC%81ltiplas%20Tabelas)
+- [x] [Módulo 6 - Múltiplas Tabelas](https://github.com/crikactba/SQL/tree/main/)
 
-- [x] [Módulo 7 - Técnicas Avançadas](https://github.com/crikactba/SQL/tree/main/Mo%CC%81dulo%207%20-%20SQL%20Avanc%CC%A7ado)
+- [x] [Módulo 7 - Técnicas Avançadas](https://github.com/crikactba/SQL/tree/main/)
 
-- [x] [Módulo 8 - Projeto Final](https://github.com/crikactba/SQL/tree/main/Mo%CC%81dulo%208%20-%20Projeto%20Final)
+- [x] [Módulo 8 - Projeto Final](https://github.com/crikactba/SQL/tree/main/)
   -->
 
 </details>
