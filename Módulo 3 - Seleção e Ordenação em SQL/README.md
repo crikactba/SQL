@@ -1,3 +1,4 @@
+![logo_ebac](https://github.com/user-attachments/assets/1f3b26d6-9a21-4646-ac17-48c506b4de43)
 
 ---
 
