@@ -7,7 +7,7 @@
 
 - [x] [Módulo 1 - Base de dados e Linguagem SQL](https://github.com/crikactba/SQL/tree/main/Mo%CC%81dulo%201%20-%20Base%20de%20dados%20%26%20Linguagem%20SQL)
 
-- [x] [Módulo 2 - Tabelas em SQL](https://github.com/crikactba/SQL/tree/main/Mo%CC%81dulo%202%20-%20Trabalhando%20com%20Tabelas)
+- [x] [Módulo 2 - Tabelas em SQL](https://github.com/crikactba/SQL/tree/main/Módulo%202%20-%20Tabelas%20em%20SQL)
 
 - [x] [Módulo 3 - Selecionando e Ordenação em SQL](https://github.com/crikactba/SQL/tree/main/Mo%CC%81dulo%203%20-%20Selecionando%20%26%20Ordenando)
 
