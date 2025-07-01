@@ -1,5 +1,6 @@
 
----
+---![logo_ebac](https://github.com/user-attachments/assets/27e3b2a6-ad8b-4387-afb1-ebd260f004b3)
+
 
 # **Módulo 2** | SQL: Tabelas em SQL
 
