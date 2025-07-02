@@ -1,5 +1,6 @@
 
----
+![logo_ebac](https://github.com/user-attachments/assets/c0d26e14-f5fd-416c-aacf-82decdb311a7)
+
 
 # **Módulo 5** | SQL: Agregações
 
