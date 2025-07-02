@@ -1,5 +1,6 @@
 
----
+![logo_ebac](https://github.com/user-attachments/assets/517f704c-b9ec-4f0b-8775-4d7f66ac50dc)
+
 
 # **Módulo 4** | SQL: Filtragem e Seleção Condicional
 
