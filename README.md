@@ -11,7 +11,7 @@
 
 - [x] [Módulo 3 - Seleção e Ordenação em SQL](https://github.com/crikactba/SQL/tree/main/Módulo%203%20-%20Seleção%20e%20Ordenação%20em%20SQL)
 
-- [x] [Módulo 4 - Filtragem e Seleção Condicional](https://github.com/crikactba/SQL/tree/main/)
+- [x] [Módulo 4 - Filtragem e Seleção Condicional](https://github.com/crikactba/SQL/tree/main/Módulo%204%20-%20Filtragem%20e%20Seleção%20Condicional)
 <!--
 - [x] [Módulo 5 - Agregações](https://github.com/crikactba/SQL/tree/main/)
 
