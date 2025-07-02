@@ -15,7 +15,7 @@
 
 - [x] [Módulo 5 - Agregações](https://github.com/crikactba/SQL/tree/main/Módulo%205%20-%20Agregações)
 
-- [x] [Módulo 6 - Múltiplas Tabelas](https://github.com/crikactba/SQL/tree/main/)
+- [x] [Módulo 6 - Múltiplas Tabelas](https://github.com/crikactba/SQL/tree/main/Módulo%206%20-%20Múltiplas%20Tabelas)
 <!--
 - [x] [Módulo 7 - Técnicas Avançadas](https://github.com/crikactba/SQL/tree/main/)
 
