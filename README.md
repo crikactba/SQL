@@ -13,7 +13,7 @@
 
 - [x] [Módulo 4 - Filtragem e Seleção Condicional](https://github.com/crikactba/SQL/tree/main/Módulo%204%20-%20Filtragem%20e%20Seleção%20Condicional)
 
-- [x] [Módulo 5 - Agregações](https://github.com/crikactba/SQL/tree/main/)
+- [x] [Módulo 5 - Agregações](https://github.com/crikactba/SQL/tree/main/Módulo%205%20-%20Agregações)
 <!--
 - [x] [Módulo 6 - Múltiplas Tabelas](https://github.com/crikactba/SQL/tree/main/)
 
