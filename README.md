@@ -18,8 +18,8 @@
 - [x] [Módulo 6 - Múltiplas Tabelas](https://github.com/crikactba/SQL/tree/main/Módulo%206%20-%20Múltiplas%20Tabelas)
 
 - [x] [Módulo 7 - Técnicas Avançadas](https://github.com/crikactba/SQL/tree/main/Módulo%207%20-%20Técnicas%20Avançadas)
-<!--
+
 - [x] [Módulo 8 - Projeto Final](https://github.com/crikactba/SQL/tree/main/)
-  -->
+
 
 </details>
